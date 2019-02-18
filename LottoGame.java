@@ -6,6 +6,7 @@ public class LottoGame {
 	public static void main(String[] args) {
 
 		System.out.println ("Привіт!");
+		System.out.println ("Пока!");
 		
 		String [] chyslaKorusyvacha = otrymatyVvedennja();
 		
